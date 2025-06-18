@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "workbench.colorCustomizations": {
+            // "activityBar.background": "#1B330F",
+            "titleBar.activeBackground": "#264814",
+            "titleBar.activeForeground": "#F8FCF5",
+            "titleBar.inactiveBackground": "#1B330F",
+            "titleBar.inactiveForeground": "#F8FCF5",
+        },
+        "editor.detectIndentation": false,
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4,
+    }
+}
